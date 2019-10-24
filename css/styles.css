@@ -1,0 +1,15 @@
+body {
+  background-color: #99ddff;
+}
+#info {
+  font-size: 25px;
+}
+.minors {
+  /* display: none; */
+  font-size: 25px;
+
+}
+.adult {
+  /* display: none; */
+  font-size: 25px;
+}
